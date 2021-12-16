@@ -1,18 +1,19 @@
 ## Blessing Aliu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a full stack developer, who wants to continue developing and broadening her skills in exciting environments. A research science graduate with customer service experience and technical knowledge. An excellent communicator with the ability to explain complex procedures in a practical and user friendly way. Looking to use those skills and my problem solving skills to solve  technical issues with a dynamic company that offers room for progression.
 
-I am a full stack Ruby developer specialising in front end, who wants to continue developing and broadening her skills in exciting environments.
-
+</br>
 
 ## Projects
-For a complete list, see my GitHub
+For a complete list, see my [GitHub](https://github.com/blessingaliu)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| [**MakersBnb**](https://github.com/blessingaliu/MakersBnb) | A web application that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, RSpec, Bootstrap, CapyBara|
+| [**Instagram clone**](https://github.com/blessingaliu/gram)| Build a clone of Instagram using Rails. | Ruby, Rails, Rspec, HTML, CSS, Bootstrap/Sass |
 
+</br>
 
 ## Skills
 
@@ -20,6 +21,7 @@ Consider skills relevent to software development. Then consider your best skills
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
+
 -What was the situation/task? (ST)
 
 -How was the skill used?
@@ -28,12 +30,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
+</br>
 
 #### Another Skill
 
@@ -44,25 +41,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+</br>
 
 ## Work Experience
+ 
+**Patient Administrator in-patient wards and emergency department**
+Chelsea and Westminster Hospital (01/10/2018 - 11/01/2020) 
 
-**Royal Marsden Hospital** (27/01/2020 - 28/08/2020)  
-PA to Sarcoma Oncology Consultant and Head of Sarcoma Department
-
-Duties:
-- processing and typing referrals to other organisations, 
-- dealing with patient queries and providing a high quality secretarial, administration service in a high-volume referral unit
-- managing multiple busy consultant diaries
-- Reading through the clinical trial sheets and helping clinical team with research and development approval applications
-
-
-**Chelsea and Westminster Hospital** (01/10/2018 - 11/01/2020)  
-Patient Administrator in-patient wards and emergency department 
-
-- Any experience relevent to software development
-
-Duties:
+**Duties:**
 - Organize and update the medical records of in-patients using LastWord
 - Provide the discharge summaries and TTOs for discharged patients
 - Provide support to doctors, nurses and allied healthcare professionals in terms of booking clinics and organising patient referrals
@@ -72,16 +58,27 @@ Duties:
 - Training new staff on the software
 - Answer telephones and respond to patient queries.
 
+</br>
+
+**Private tutor/teacher**
+First tutors | 2018 - 2019
+
+Tutored students in key-stage level, GCSE and A-level Biology, chemistry and english.
+Planned lessons and sessions to mentor students to reach their academic goals 
+
+
+</br>
 
 ## Education
 
 #### Makers Academy (October 2021 to January 2022)
-- Test driven development via RSpec and behaviour driven development 
-- Pair programming with Agile methodologies/XP values in order to problemsolve effeciently, requiring teamwork and communication.
-- Teaching programming with Ruby, Rails, JavaScript
-- Object-oriented design 
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Worked in project teams to develop web applications front and back-end using an agile approach. 
+- Test driven development via RSpec with feature and unit testing 
+- Pair programming with Agile methodologies/XP values in order to problem solve efficiently
+- Programming with Ruby, Rails, JavaScript, HTML, CSS and Bootstrap
+- Experience with version control via Git/GitHub
+- Knowledge and application of Object-oriented programming 
+
 
 #### Newcastle University (September 2020 to July 2021)
 - MRes Regenerative medicine and stem cell research
@@ -89,27 +86,27 @@ Duties:
 - Course representative
 
 #### Manchester Metropolitan University (September 2015 to June 2018)
-•	Bsc (Hons) in Biomedical Science 
-•	1st class
-•	Course representative and Student mentor 
-•	Awarded a bursary for excellent grades in year 1 and 2 
+- Bsc (Hons) in Biomedical Science 
+- 1st class
+- Course representative and Student mentor 
+- Awarded a bursary for excellent grades in year 1 and 2 
 
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+- Diploma in Project Management - Revised 2017 CPD Accredited
+- Good Clinical Practice certificate NIHR Clinical research network coordinating centre
+- Project Management Essentials Certified (PMEC)™
+- Freecodecamp Responsive web design certificate 
 
-Diploma in Project Management - Revised 2017 CPD Accredited
-Good Clinical Practice certificate NIHR Clinical research network coordinating centre
-Project Management Essentials Certified (PMEC)™
 
+</br>
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Singing: I sing in my local church choir and have been a part of several mass choirs, was given the opportunity to sing on BBC songs of praise show.
 
-•	Singing: I sing in my local church choir and have been a part of several mass choirs, was given the opportunity to sing on BBC songs of praise show.
-•	Photography: I take pictures at events and festivals, self-learnt photographer 
+- Photography: I take pictures at events and festivals, self-learnt photographer 
 
 
 

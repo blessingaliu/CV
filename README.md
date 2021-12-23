@@ -11,41 +11,14 @@ For a complete list, see my [GitHub](https://github.com/blessingaliu)
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | [**MakersBnb**](https://github.com/blessingaliu/MakersBnb) | A web application that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, RSpec, Bootstrap, CapyBara|
-| [**Instagram clone**](https://github.com/blessingaliu/gram)| Build a clone of Instagram using Rails. | Ruby, Rails, Rspec, HTML, CSS, Bootstrap/Sass |
-
-</br>
-
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
-
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-</br>
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| [**Acebook**](https://github.com/blessingaliu/acebook)/ [**Gram**](https://github.com/blessingaliu/Gram)| A social media app where users can connect with family and friends.| Ruby, Rails, Rspec, HTML, CSS, Bootstrap/Sass |
 
 </br>
 
 ## Work Experience
  
 **Patient Administrator in-patient wards and emergency department**
+
 Chelsea and Westminster Hospital (01/10/2018 - 11/01/2020) 
 
 **Duties:**
@@ -61,11 +34,13 @@ Chelsea and Westminster Hospital (01/10/2018 - 11/01/2020)
 </br>
 
 **Private tutor/teacher**
-First tutors | 2018 - 2019
+
+First tutors | (2018 - 2019)
+
+**Duties:**
 
 Tutored students in key-stage level, GCSE and A-level Biology, chemistry and english.
 Planned lessons and sessions to mentor students to reach their academic goals 
-
 
 </br>
 

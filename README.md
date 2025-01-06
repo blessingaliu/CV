@@ -17,7 +17,7 @@ For a complete list, see my [GitHub](https://github.com/blessingaliu)
 | ---------------------------- | ----------------- | ----------------- |
 | [**Recipr**](https://github.com/blessingaliu/Recipr)| A recipe application where you can save your favourite recipes, add your own recipes and search for recipe inspiration | Mongodb, Express, Node.JS, React, React-Bootstrap, Jest|
 | [**MakersBnb**](https://github.com/blessingaliu/MakersBnb) | A web application that allows users to list spaces they have available, and to hire spaces for the night. | Ruby, RSpec, Bootstrap, CapyBara|
-| [**Acebook**](https://github.com/blessingaliu/acebook)/ [**Gram**](https://github.com/blessingaliu/Gram)| A social media app where users can connect with family and friends.| Ruby, Rails, Rspec, HTML, CSS, Bootstrap/Sass |
+| [**Acebook**](https://github.com/blessingaliu/acebook)| A social media app where users can connect with family and friends.| Ruby, Rails, Rspec, HTML, CSS, Bootstrap/Sass |
 
 </br>
 
